@@ -1,0 +1,13 @@
+#container {
+    min-height: 150px;
+  }
+  
+  div.box {
+    width: 80px;
+    height: 80px;
+    border: solid 2px white;
+    display: inline-block;
+    position: absolute;
+  }
+  
+  
